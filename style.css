@@ -21,24 +21,45 @@ section {
     background-color: lightgrey;
     margin-left: 100px;
     margin-top: 10px;
-    width: 600px;
-    height: 190px;
-    padding-top: 40px;
+    width: 528px;
+    height: 210px;
+    padding-top: 20px;
+    margin-bottom: 10px;
 }
 
 article {
     position: absolute;
-    float: left;
     margin-left: 20px;
-    margin-top: 40px;
-    width: 560px;
-    height: 110px;
+    margin-top: 20px;
+    width: 493px;
+    height: 145px;
     padding-top: 20px;
 }
 
+aside {
+    background-color: lightgrey;
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 422px;
+    height: 210px;
+    padding-top: 20px;
+}
 
+h3 {
+    background-color: lightgrey;
+    height: 40px;
+    width: 473px;
+    margin: 10px;
+}
+
+p {
+    background-color: lightgray;
+    height: 40px;
+    width: 473px;
+    margin-left: 10px;
+}
 
 footer {
     clear: both;
-    margin-top: 20px;
 }
